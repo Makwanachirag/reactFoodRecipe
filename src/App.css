@@ -1,0 +1,15 @@
+.jumbotron {
+	background-color: #ef5777;
+	border-radius: 0;
+	display: grid;
+	justify-content: center;
+	align-items: center;
+	padding: 2rem;
+	color: #fff;
+	text-transform: capitalize;
+}
+.btn:focus,
+input[type="text"]:focus {
+	outline: none;
+	box-shadow: none;
+}
